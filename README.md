@@ -1,10 +1,4 @@
 
--:books:Full stack development student
-
--:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
-
--:seedling:I’m currently learning ReactJS
-
 ### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)](https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
@@ -23,6 +17,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" />
 </a>
 
+
+
+
   
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">Hello World!I´m Adolfo,welcome to my profile!
 
@@ -39,9 +36,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Flutter
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me: [Clean Code](https://cleancode.dev)
+- 🔭 I’m Full stack development student
+- 🌱 I’m currently learning ReactJS
+- 📫 Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
 
 
 ### Would you like to know a little about my work?
