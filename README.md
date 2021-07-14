@@ -9,9 +9,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/AdolfoCarneiro)
+[ ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white = https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)]( https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
+[ ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white = https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)]( https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
 
 
 - Thanks for visiting.
