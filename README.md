@@ -1,5 +1,5 @@
 
-## Hello World:earth_americas:!I´m Adolfo,welcome to my profile!
+## Hello World<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">!I´m Adolfo,welcome to my profile!
 
 <ul>
   <li>:books:Full stack development student</li>
