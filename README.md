@@ -16,9 +16,10 @@
 
 - Enjoy it!! o/
 
-[![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=radical)](https://github.com/AdolfoCarneiro/github-readme-stats)
+![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=radical)
 
-[![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfo)](https://github.com/AdolfoCarneiro/github-readme-stats)
+[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdolfoCarneiro)](https://github.com/AdolfoCarneiro/github-readme-stats)
+
 
 
 <!---
