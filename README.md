@@ -27,7 +27,7 @@
 </a>
 
   
-### Here we up 👋
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">Hello World!I´m Adolfo,welcome to my profile!
 
 <div width="100%" style="position:relative;"><img  width="100%" src="https://user-images.githubusercontent.com/22732544/100836999-1556c180-344f-11eb-957e-8d4c7b54ee0a.gif"/></div>
 
