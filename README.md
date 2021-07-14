@@ -12,6 +12,9 @@
 <a href="https://github.com/AdolfoCarneiro">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" alt="Adolfo" />
 </a>
+<a href="https://github.com/AdolfoCarneiro">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfocarneiro&layout=compact&theme=tokyonight" alt="Adolfo" />
+</a>
 
 - 📚 I’m Full stack development student
 - 🌱 I’m currently learning ReactJS
