@@ -12,7 +12,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)](https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfocarneiro&theme=tokyonight&repo=github-readme-stats)](https://github.com/AdolfoCarneiro/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfocarneiro&theme=tokyonight&repo=Bootstrap)](https://github.com/AdolfoCarneiro/Bootstrap)
 
 ![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
 
