@@ -6,6 +6,7 @@
   <li>:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS </li>
   <li>:seedling:I’m currently learning ReactJS</li>
 </ul>
+<div style="display:flex">
 <div style="width:50%">
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
@@ -30,7 +31,7 @@
 [![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats)
   
 </div>
-
+</div>
 
 <!---
 AdolfoCarneiro/AdolfoCarneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
