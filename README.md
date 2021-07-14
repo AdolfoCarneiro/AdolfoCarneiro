@@ -12,10 +12,11 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)](https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
 
-
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+[![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo)](https://github.com/AdolfoCarneiro/github-readme-stats)
 
 <!---
 AdolfoCarneiro/AdolfoCarneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
