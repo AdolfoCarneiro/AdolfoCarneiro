@@ -11,11 +11,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" />
 </a>
 
-  -:books:Full stack development student
-  
-  -:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
-  
-  -:seedling:I’m currently learning ReactJS
+Here are some ideas to get you started:
+
+-:books:Full stack development student
+-:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
+-:seedling:I’m currently learning ReactJS
 
 ### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
