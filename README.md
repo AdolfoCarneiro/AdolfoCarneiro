@@ -23,9 +23,11 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+</div>
+<div>
 ![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
 [![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats)
-
+</div>
 
 
 <!---
