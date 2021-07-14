@@ -15,8 +15,7 @@
 
 - 📚 I’m Full stack development student
 - 🌱 I’m currently learning ReactJS
-- 💻 Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
-
+- 💻 Front end developer
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
