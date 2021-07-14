@@ -1,5 +1,5 @@
 
-## Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">I´m Adolfo,welcome to my profile!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">Hello World!I´m Adolfo,welcome to my profile!
 
 <ul>
   <li>:books:Full stack development student</li>
@@ -18,7 +18,7 @@
 
 ![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=radical)
 
-[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro)](https://github.com/AdolfoCarneiro/github-readme-stats)
+[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=radical)](https://github.com/AdolfoCarneiro/github-readme-stats)
 
 
 
