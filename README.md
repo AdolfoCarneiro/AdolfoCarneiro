@@ -8,8 +8,6 @@
 
 -:seedling:I’m currently learning ReactJS
 
-### Basic info
-
 <a href="https://github.com/AdolfoCarneiro">
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight" />
 </a>
