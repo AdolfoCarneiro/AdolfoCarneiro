@@ -34,11 +34,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" alt="Adolfo" />
 </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m Full stack development student
+- 📚 I’m Full stack development student
 - 🌱 I’m currently learning ReactJS
-- 📫 Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
+- 💻 Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
 
 
 ### Would you like to know a little about my work?
