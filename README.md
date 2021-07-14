@@ -1,7 +1,12 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">Hello World!I´m Adolfo,welcome to my profile!
   <img width="100%" src="https://user-images.githubusercontent.com/22732544/100836999-1556c180-344f-11eb-957e-8d4c7b54ee0a.gif" style="max-width:100%;">
-  
+-:books:Full stack development student
+
+-:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
+
+-:seedling:I’m currently learning ReactJS
+
 ### Basic info
 
 <a href="https://github.com/AdolfoCarneiro">
@@ -10,12 +15,6 @@
 <a href="https://github.com/AdolfoCarneiro">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" />
 </a>
-
-Here are some ideas to get you started:
-
--:books:Full stack development student
--:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS 
--:seedling:I’m currently learning ReactJS
 
 ### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
