@@ -7,6 +7,13 @@
   <li>:seedling:I’m currently learning ReactJS</li>
 </ul>
 
+<a href="#">
+  <img align="rigthr" src="https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight" />
+</a>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" />
+</a>
+
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
