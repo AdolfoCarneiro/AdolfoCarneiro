@@ -18,7 +18,6 @@
 </a>
 
 ### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
-
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)](https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
