@@ -7,6 +7,7 @@
   <li>:seedling:I’m currently learning ReactJS</li>
 </ul>
 
+## Basic info
 <a href="https://github.com/AdolfoCarneiro">
   <img align="rigthr" src="https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight" />
 </a>
