@@ -6,8 +6,10 @@
   <li>:computer:Front end developer| HTML5 | CSS3 | JavaScrip | ReactJS </li>
   <li>:seedling:I’m currently learning ReactJS</li>
 </ul>
-<div style="display:flex">
-<div style="width:50%">
+
+![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
+[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats)
+
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
@@ -24,14 +26,10 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</div>
-<div style="width:50%">
+
   
-![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
-[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats)
+
   
-</div>
-</div>
 
 <!---
 AdolfoCarneiro/AdolfoCarneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
