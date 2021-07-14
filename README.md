@@ -14,7 +14,10 @@
 <a href="https://github.com/AdolfoCarneiro">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" />
 </a>
-
+###ideias
+-sdasdasd
+-asdasdads
+-asdsadad
 
   
 
