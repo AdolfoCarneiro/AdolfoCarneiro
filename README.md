@@ -16,7 +16,8 @@
 
 - Enjoy it!! o/
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo&show_icons=true&theme=radical)
+
 
 <!---
 AdolfoCarneiro/AdolfoCarneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
