@@ -7,8 +7,12 @@
   <li>:seedling:I’m currently learning ReactJS</li>
 </ul>
 
-![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
-[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
 
@@ -26,8 +30,8 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-  
+![Adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight)
+[![Adolfo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight)](https://github.com/AdolfoCarneiro/github-readme-stats) 
 
   
 
