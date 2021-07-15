@@ -10,7 +10,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight" alt="Dofal" />
 </a>
 <a href="https://github.com/AdolfoCarneiro">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=adolfocarneiro&layout=compact&theme=tokyonight" alt="Adolfo" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dofal&layout=compact&theme=tokyonight" alt="Adolfo" />
 </a>
 
 - 📚 I’m Full stack development student
