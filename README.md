@@ -23,9 +23,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)](https://www.linkedin.com/in/adolfo-carneiro-a541531a0/)
 
   ## Technologies that I master<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width:100%;">
-  <a href="https://github.com/AdolfoCarneiro">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfocarneiro&layout=compact&theme=tokyonight" alt="Adolfo" />
-   </a>
    
   ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
