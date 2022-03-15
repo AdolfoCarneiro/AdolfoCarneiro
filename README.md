@@ -14,6 +14,7 @@
   </a>
 
   - 📚 I’m Full stack development student
+  - 💼 I currently work at Gow Soluções,a technology company
   - 🌱 I’m currently learning C#
   - 💻 Web developer
 
