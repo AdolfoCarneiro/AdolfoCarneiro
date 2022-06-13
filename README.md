@@ -15,7 +15,7 @@
 
   - 📚 I’m Full stack development student
   - 💼 I currently work at Gow Soluções,a technology company
-  - 🌱 I’m currently learning C#
+  - 🌱 I’m currently learning Next.Js
   - 💻 Web developer
 
   ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
@@ -45,6 +45,11 @@
   
   ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <!---
