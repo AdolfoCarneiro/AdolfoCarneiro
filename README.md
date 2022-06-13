@@ -15,7 +15,7 @@
 
   - 📚 I’m Full stack development student
   - 💼 I currently work at Gow Soluções,a technology company
-  - 🌱 I’m currently learning Next.Js
+  - 🌱 I’m currently learning Next.Js and Software Archtecture
   - 💻 Web developer
 
   ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
