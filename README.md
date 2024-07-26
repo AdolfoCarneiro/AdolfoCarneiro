@@ -15,8 +15,8 @@
 
   - 📚 I’m Full stack development student
   - 💼 I currently work at Gow Soluções,a technology company
-  - 🌱 I’m currently learning Next.Js and Software Archtecture
-  - 💻 Web developer
+  - 🌱 I’m currently learning Microservies and OAuth 2.0 
+  - 💻 Backend .Net developer
 
   ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/AdolfoCarneiro)](https://github.com/AdolfoCarneiro)
