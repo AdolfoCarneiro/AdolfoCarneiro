@@ -6,16 +6,9 @@
 
 ### Basic Info
 
-  <a href="https://github.com/AdolfoCarneiro">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=adolfocarneiro&show_icons=true&theme=tokyonight" alt="Dofal" />
-  </a>
-  <a href="https://github.com/AdolfoCarneiro">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dofal&layout=compact&theme=tokyonight" alt="Adolfo" />
-  </a>
-
-  - 📚 I’m Full stack development student
+  - 📚 I’m Back end web developer and student
   - 💼 I currently work at Gow Soluções,a technology company
-  - 🌱 I’m currently learning Microservies and OAuth 2.0 
+  - 🌱 I’m currently learning English, IA promp enginering and llms and python
   - 💻 Backend .Net developer
 
   ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;">
